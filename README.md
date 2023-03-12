@@ -1,4 +1,4 @@
-# Multiple Linear Regression
+# Multiple Linear Regression Model
 
 - With the house prices data from Kaggle, I built a model using regression techniques to predict house sales. The accuracy value shows the model is quite reliable.
 
